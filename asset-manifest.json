@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rick-Morty/static/css/main.402c47f6.css",
+    "main.js": "/Rick-Morty/static/js/main.213710cb.js",
+    "static/media/logo-sinfondo.png": "/Rick-Morty/static/media/logo-sinfondo.dbc9f2408e7e8e3fb6dd.png",
+    "static/media/logo.png": "/Rick-Morty/static/media/logo.df427b23c949c2d35d1e.png",
+    "index.html": "/Rick-Morty/index.html",
+    "main.402c47f6.css.map": "/Rick-Morty/static/css/main.402c47f6.css.map",
+    "main.213710cb.js.map": "/Rick-Morty/static/js/main.213710cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402c47f6.css",
+    "static/js/main.213710cb.js"
+  ]
+}
